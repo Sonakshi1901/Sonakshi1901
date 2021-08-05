@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonakshi</h1>
-<h2 align="center">A Student, Developer and Daydreamer</h2>
+<h2 align="center">A Student, Developer and a Constant Learner</h2>
 
 - 🌱 I’m currently learning **MERN stack**
 
