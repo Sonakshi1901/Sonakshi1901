@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonakshi</h1>
-<h3 align="center">A Student, Developer and Daydreamer</h3>
+<h2 align="center">A Student, Developer and Daydreamer</h2>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sonakshi1901.medium.com/](https://sonakshi1901.medium.com/)
 
-- 💬 Ask me about **react, HTML, CSS and JS**
+- 💬 Ask me about **React, HTML, CSS and JS**
 
 - 📫 How to reach me **sonakshi1901@gmail.com**
 
@@ -32,8 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonakshi1901&show_icons=true&locale=en&layout=compact" alt="sonakshi1901" /></p>
 
-<p>&nbsp;<img padding-top="10px" align="center" src="https://github-readme-stats.vercel.app/api?username=sonakshi1901&show_icons=true&locale=en" alt="sonakshi1901" /></p>
+<p>&nbsp;<img style={{ paddingTop="10px" }} align="center" src="https://github-readme-stats.vercel.app/api?username=sonakshi1901&show_icons=true&locale=en" alt="sonakshi1901" /></p>
 
-<p><img padding-top="10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonakshi1901&" alt="sonakshi1901" /></p>
+<p><img style={{ paddingTop="10px" }} align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonakshi1901&" alt="sonakshi1901" /></p>
 
 
