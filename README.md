@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sonakshi1901.medium.com/](https://sonakshi1901.medium.com/)
 
-- 💬 Ask me about **React, HTML, CSS and JS**
+- 💬 Ask me about **ReactJS, HTML, CSS, JS and Firebase**
 
 - 📫 How to reach me **sonakshi1901@gmail.com**
 
