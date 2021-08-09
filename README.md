@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React based projects**
 
-- 🤝 I’m looking for help with **DevOps and ML**
+- 🤝 I’m looking for help with **Node.js**
 
 - 📝 I regularly write articles on [https://sonakshi1901.medium.com/](https://sonakshi1901.medium.com/)
 
