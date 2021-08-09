@@ -43,11 +43,10 @@
 
 <b>**_Do check out my Repositories and give some stars if you like it_**🤩🌟</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonakshi1901&show_icons=true&locale=en&layout=compact" alt="sonakshi1901" /></p>
-</br>
+<p align='center'><img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakshi1901&layout=compact&theme=radical" alt="Sonakshi1901" />&nbsp; &nbsp;<img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=Sonakshi1901&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000" alt="Sonakshi1901StrikeRate"/></p>
 
-<p>&nbsp;<img style={{ paddingTop="10px" }} align="center" src="https://github-readme-stats.vercel.app/api?username=sonakshi1901&show_icons=true&locale=en" alt="sonakshi1901" /></p>
-
-<p><img style={{ paddingTop="10px" }} align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonakshi1901&" alt="sonakshi1901" /></p>
-
+<!--![Sonakshi's github stats](https://github-readme-stats.vercel.app/api?username=Sonakshi1901&show_icons=true&count_private=true&theme=radical )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact&theme=radical)](https://github.com/snehaM2210/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sonakshi1901&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)-->
+<p align='center'><img width="450px" src="https://github-readme-stats.vercel.app/api?username=Sonakshi1901&show_icons=true&count_private=true&theme=radical" alt="Sonakshi1901" /></p>
 
