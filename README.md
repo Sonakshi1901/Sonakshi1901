@@ -42,7 +42,7 @@
 
 ---
 ### Github Statistics:
-<p align='center'><img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakshi1901&layout=compact&theme=radical" alt="Sonakshi1901" />&nbsp; &nbsp;<img width="450px" src="https://github-readme-stats.vercel.app/api?username=Sonakshi1901&show_icons=true&count_private=true&theme=radical" alt="Sonakshi1901" /></p>
+<p align='center'><img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakshi1901&layout=compact&theme=radical" alt="Sonakshi1901" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Sonakshi1901&show_icons=true&count_private=true&theme=radical" alt="Sonakshi1901" /></p>
 
 <!--![Sonakshi's github stats](https://github-readme-stats.vercel.app/api?username=Sonakshi1901&show_icons=true&count_private=true&theme=radical )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact&theme=radical)](https://github.com/snehaM2210/github-readme-stats)
